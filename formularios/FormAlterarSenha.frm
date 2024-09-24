@@ -34,7 +34,7 @@ Private Sub AlterarSenha_Click()
     
         Unload Me
     Else
-        MsgBox "A senha atual est· incorreta."
+        MsgBox "A senha atual est√° incorreta."
         Exit Sub
     End If
     
