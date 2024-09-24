@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo1"
+Attribute VB_Name = "MÃ³dulo1"
 Sub formularioCadastro()
     FormCadastro.Show
 End Sub
